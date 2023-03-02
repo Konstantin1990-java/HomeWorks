@@ -10,8 +10,7 @@ public class Main {
         book2.setPublishingYear(1852); // меняем год публикации у объекта book2
         System.out.println(book1);
         System.out.println(book1.equals(book2));
-        System.out.println(book1.hashCode());
-        System.out.println(book2.hashCode());
+
 
     }
 }
